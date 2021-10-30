@@ -1,0 +1,47 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1, h4{
+    text-align: center;
+}
+h4{
+    margin-top: 10px;
+}
+h5{
+    margin-top: 20px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.email{
+    margin: 20px auto;
+    width: 220px;
+}
+.password{
+    width: 220px;
+    margin-top: 10px;
+}
+.ancher{
+    margin-top: 40px;
+    width: 220px;
+    height: 40px;
+    background: rgb(73, 71, 71);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.check{
+    margin-top: 20px;
+}
+img{
+    width: 25px;
+    height: 25px;
+    margin: 20px 10px;
+}
+p{
+    margin-top: -20px;
+}
